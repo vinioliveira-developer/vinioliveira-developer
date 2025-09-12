@@ -8,7 +8,8 @@ Minha história com tecnologia começou cedo: aos 12 anos, montei meu primeiro c
 
 Meu objetivo é migrar para a área de tecnologia até 2026, contribuindo com soluções estáveis e inovadoras que façam diferença real para as pessoas. Estou aberto a conexões, troca de experiências e oportunidades na área de desenvolvimento. 🚀
 
-📧 "[E-mail:](mvinicius.developer@gmail.com)"
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mvinicius.developer@gmail.com)
 
 ---
 
@@ -50,3 +51,22 @@ Meu objetivo é migrar para a área de tecnologia até 2026, contribuindo com so
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=vinioliveira-developer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinioliveira-developer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
