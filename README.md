@@ -69,4 +69,5 @@ Meu objetivo é migrar para a área de tecnologia até 2026, contribuindo com so
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinioliveira-developer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+
 </p>
