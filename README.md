@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marcos Vinicius
 
-**`Desenvolvedora FrontEnd`**
+**`Desenvolvedor Junior`**
 
 Prazer! Meu nome é Marcos Vinicius, tenho 29 anos e sou formado em Análise e Desenvolvimento de Sistemas.
 
