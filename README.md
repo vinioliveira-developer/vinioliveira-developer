@@ -2,11 +2,17 @@
 
 **`Desenvolvedora FrontEnd`**
 
-Prazer! Meu nome é Marcos Vinicius tenho 29 anos. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como gerente no varejo de materiais de construção, onde lidero equipe, atendo clientes e resolvo problemas do dia a dia. Essa experiência me trouxe base sólida em liderança, comunicação e resiliência.
+Prazer! Meu nome é Marcos Vinicius, tenho 29 anos e sou formado em Análise e Desenvolvimento de Sistemas.
 
-Minha história com tecnologia começou cedo: aos 12 anos, montei meu primeiro computador com peças de sucata. Essa curiosidade virou paixão e, nos últimos anos, decidi mergulhar de vez nesse mundo. Hoje, estudo e aplico JavaScript (ES6+), React e integração de APIs, aliado a conhecimentos de UI/UX adquiridos na faculdade, para criar interfaces funcionais e agradáveis.
+Ao longo da minha trajetória profissional desenvolvi experiência em liderança de equipes, atendimento ao cliente e resolução de problemas, o que fortaleceu habilidades como comunicação, organização, tomada de decisão e resiliência.
 
-Meu objetivo é migrar para a área de tecnologia até 2026, contribuindo com soluções estáveis e inovadoras que façam diferença real para as pessoas. Estou aberto a conexões, troca de experiências e oportunidades na área de desenvolvimento. 🚀
+Minha história com tecnologia começou cedo: aos 12 anos montei meu primeiro computador utilizando peças de sucata. Essa curiosidade se transformou em paixão e, nos últimos anos, decidi aprofundar meus estudos na área de desenvolvimento.
+
+Hoje estudo e aplico HTML, CSS, JavaScript (ES6+), além de possuir conhecimento no funcionamento de APIs REST, uso de JSON e conceitos de integração entre sistemas. Em meus projetos busco construir interfaces web funcionais, responsivas e conectadas a serviços externos.
+
+Destaco minha proatividade ao identificar desafios no desenvolvimento e propor soluções viáveis, sempre buscando evolução constante e boas práticas de código.
+
+Aqui no GitHub você encontrará projetos pessoais e experimentos práticos envolvendo desenvolvimento web e consumo de APIs, que refletem minha jornada de aprendizado e evolução na área de tecnologia.
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mvinicius.developer@gmail.com)
